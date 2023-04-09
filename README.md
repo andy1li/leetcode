@@ -1,3 +1,3 @@
 # Leetcode
-My progress of attempting previous leetcode problems
 
+My progress of attempting previous leetcode problems
